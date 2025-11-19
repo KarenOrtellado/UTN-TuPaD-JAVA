@@ -1,5 +1,5 @@
 
-package reporsitorio.java.pkg1;
+package reporsitorio.java.pkg1.TP1;
 
 /**
  *
