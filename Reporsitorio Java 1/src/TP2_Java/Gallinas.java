@@ -1,7 +1,6 @@
 package TP2_Java;
 
-
-public class Gallinas {
+class Gallinas {
     
     private String idGallina;
     private int edad=0, huevosPuesto=0;

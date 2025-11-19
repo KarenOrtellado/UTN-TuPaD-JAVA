@@ -1,8 +1,7 @@
-
 package TP2_Java;
 
 
-public class Mascotas {
+class Mascota {
     private String nombre="Elias",especie="Pastor Aleman";
     private int edad=7;
     
@@ -14,7 +13,6 @@ public class Mascotas {
         if (anios>0);
             edad+=anios;
         
-    }  
-    
+    } 
     
 }

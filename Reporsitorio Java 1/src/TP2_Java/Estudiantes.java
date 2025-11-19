@@ -1,7 +1,6 @@
 package TP2_Java;
 
-
-public class Estudiantes {
+class Estudiantes {
     
     private String nombre="Karen",apellido="Ortellado",curso="2°año";
     private double calificacion;

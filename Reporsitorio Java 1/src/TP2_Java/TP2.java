@@ -16,7 +16,8 @@ public class TP2 {
     }
     //Ejercicio2
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {    
+        
         Mascota p2 = new Mascota();
 
         p2.mostrarInfo();
@@ -27,6 +28,7 @@ public class TP2 {
 
     //Ejercicio3
     public static void main(String[] args) {
+       
         Libro p3 = new Libro();
         p3.mostrarInfo();
         p3.setAnioPublicacion(-150);

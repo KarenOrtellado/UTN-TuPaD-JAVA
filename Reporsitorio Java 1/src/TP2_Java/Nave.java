@@ -1,8 +1,7 @@
 
 package TP2_Java;
 
-
-public class Nave {
+class Nave {
     private String nombre="Halcon";
     private double combustible=0;
     

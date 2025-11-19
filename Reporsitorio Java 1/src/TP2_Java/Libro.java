@@ -1,9 +1,7 @@
 
 package TP2_Java;
 
-
-
-public class Libro {
+class Libro {
     
     private String Titulo="LOTR", Autor="Tolkien";
     private int anioPublicacion;
